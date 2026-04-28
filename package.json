@@ -1,0 +1,7 @@
+{
+  "name": "vercel-xhttp",
+  "version": "1.2.0",
+  "description": "Backend Proxy for main project",
+  "private": true,
+  "license": "MIT"
+}
